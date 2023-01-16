@@ -3,6 +3,6 @@
 ---------------------------------------------------------------------------
 
 ## Thirsty
-![Thirsty Question]
+![Thirsty Question](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/ques.png)
 
 ---------------------------------------------------------------------------
