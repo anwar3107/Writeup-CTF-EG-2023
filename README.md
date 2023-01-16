@@ -37,3 +37,19 @@ So just like the zip name (Menu.zip) we need to put the menu as password : MOCHA
 Both of files share the same password and what we get is mp4 file and txt file that shown lyrics of the song
 ![pokemon.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/pokemon.png)
 ![lyrics.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/lyrics.png)
+
+as we analyzed the cipher on the video it’s actually using Book Cipher method but book cipher using page:line:word so we need to minimize the cipher to line:word:alphabets
+
+```
+
+eg. 12:5:2
+12th line:5th word:2nd alphabet
+
+```
+![encode.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/encode.png)
+And voila we got E as our first alphabet of the flag ⛳
+As we keep decipher the full flag will be
+```
+EG{REST_WITH_COFFEE}
+```
+
