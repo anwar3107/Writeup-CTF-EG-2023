@@ -28,3 +28,12 @@ We get the next clue! So the picture showed that the owner of the account liked 
 Seeing the post likes we’ve seen identical picture of IG account named nnshuada._ and it got 1 post about starbucks menu 😋
 
 ![like.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/like.png)
+![menu-acc.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/menu-acc.png)
+
+So just like the zip name (Menu.zip) we need to put the menu as password : MOCHAPRALINEFRAPPUCCINO
+
+![menu.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/menu.png)
+
+Both of files share the same password and what we get is mp4 file and txt file that shown lyrics of the song
+![pokemon.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/pokemon.png)
+![lyrics.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/lyrics.png)
