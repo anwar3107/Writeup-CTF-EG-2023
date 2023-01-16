@@ -46,7 +46,6 @@ eg. 12:5:2
 12th line:5th word:2nd alphabet
 
 ```
-![encode.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/encode.png)
 And voila we got E as our first alphabet of the flag ⛳
 As we keep decipher the full flag will be
 ```
