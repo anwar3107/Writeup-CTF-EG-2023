@@ -17,9 +17,9 @@ So the first unlocked file we got is Pokemon.jpg and when we open it up we got t
 
 After doing some OSINT we got the location is “Starbucks Medan Gopeng” and put the name in Place.zip as the password
 
-![gmap.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/gmap.jpg)
+![gmap.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/gmap.png)
 
-![place.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/place.jpg)  
+![place.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/place.png)  
 
 We get the next clue! So the picture showed that the owner of the account liked eliteghostmy post on instagram so we gonna do some OSINT on the eliteghost page to get the owner of the account
 
@@ -27,4 +27,4 @@ We get the next clue! So the picture showed that the owner of the account liked 
 
 Seeing the post likes we’ve seen identical picture of IG account named nnshuada._ and it got 1 post about starbucks menu 😋
 
-![like.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/like.jpg)
+![like.jpg](https://github.com/anwar3107/Writeup-CTF-EG-2023/blob/main/thirsty/like.png)
